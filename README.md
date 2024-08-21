@@ -10,3 +10,19 @@ Text-to-Speech: Convert the chatbot’s text responses into speech and play them
 Dark/Light Mode: Switch between dark and light themes based on user preference.
 Sentiment Analysis: Analyze the sentiment of the chatbot’s responses and display feedback.
  
+# Installation
+To get started with this project, follow these steps:
+
+1. Clone the Repository
+First, clone the repository to your local machine:
+    git clone https://github.com/Akatzz12/ChatDisc-using-Gemini.git
+    cd ChatDisc-using-Gemini
+
+2. Install Requirements
+    pip install -r requirements.txt
+
+
+3. Run the Application
+    streamlit run app.py
+
+
